@@ -262,6 +262,10 @@ footer {
         opacity: 0.9;
     }
 
+    .headre h1 {
+        color: red;
+    }
+
     #date{
         position: absolute;
         bottom: 10px;
